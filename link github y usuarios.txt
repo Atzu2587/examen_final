@@ -2,7 +2,7 @@ Nombres de usuario y contraseñas:
 - Usuario 1: Juan Pérez
   Usuario: juan
   Contraseña: admin
-- Usuario 2: María López
+- Usuario 2: Pedro López
   Usuario: pepe
   Contraseña: user
 
