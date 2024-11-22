@@ -1,0 +1,11 @@
+Nombres de usuario y contraseñas:
+- Usuario 1: Juan Pérez
+  Usuario: juan
+  Contraseña: admin
+- Usuario 2: María López
+  Usuario: pepe
+  Contraseña: user
+
+Repositorio GitHub:
+https://github.com/Atzu2587/examen_final
+
