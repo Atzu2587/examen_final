@@ -1,0 +1,3 @@
+Usuario: juan | Contraseña: admin
+Usuario: pepe | Contraseña: user
+Usuario incorrecto o contraseña incorrecta.
